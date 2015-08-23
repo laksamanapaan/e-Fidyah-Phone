@@ -1,0 +1,49 @@
+.hari {
+	color: #FFF;
+}
+
+input.button {
+	background-color: transparent;
+	background-repeat:no-repeat;
+	border:none;
+	cursor:pointer;
+	overflow:hidden;
+	outline:none;
+}
+input.button2 {
+	background-color: #CCC;
+	background-repeat:no-repeat;
+	border:none;
+	cursor:pointer;
+	overflow:hidden;
+	outline:none;
+}
+
+input.button3 {
+	background-color: #F00;
+	background-repeat:no-repeat;
+	border:none;
+	cursor:pointer;
+	overflow:hidden;
+	outline:none;
+}
+
+input.btn:active { background:#3F0 }
+
+
+.prev {
+	color: #000;
+}
+#next {
+	color: #000;
+}
+.snext {
+	font-size: 14px;
+}
+.sprev {
+	font-size: 14px;
+}
+.prev {
+	color: #000;
+}/* CSS Document */
+

@@ -48,14 +48,14 @@ function alertFunction($masihi,$hijri){
 <thead>
   <tr bgcolor="#666666" class="hari" >
     <th data-priority="1" width="61">Ahd</th>
-    <th data-priority="2">Isn</td>
-    <th data-priority="3">Sel</td>
-    <th data-priority="4">Rab</td>
-    <th data-priority="5">Kha</td>
-    <th data-priority="6">Jum</td>
-    <th data-priority="7">Sab</td>
+    <th data-priority="2">Isn</th>
+    <th data-priority="3">Sel</th>
+    <th data-priority="4">Rab</th>
+    <th data-priority="5">Kha</th>
+    <th data-priority="6">Jum</th>
+    <th data-priority="7">Sab</th>
   </tr>
- </th>
+ </thead>
  <tbody> 
   <tr bgcolor="#CCCCCC">
     <td>&nbsp;</td>

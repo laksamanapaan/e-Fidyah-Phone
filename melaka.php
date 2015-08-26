@@ -24,7 +24,7 @@ function proseskira()
 <div data-role="page">
 	<div data-role="header">
 		<h1>Kira Fidyah</h1>
-		<a href="index.html" data-role="button" data-icon="home">Halaman Utama</a>
+		<a href="index.html" data-role="button" data-icon="home" data-rel="external">Halaman Utama</a>
   </div>
 <table align="center" cellpadding="5" bgcolor="#99CC99" cellspacing="5"> 
 <tr align="left">
@@ -75,7 +75,7 @@ function proseskira()
 </tr></table>
 <table align="center" cellpadding="5" cellspacing="5"> 
 <tr align="left">
-<td><input type="button" value="Kira" name="kira" onClick="proseskira()"></td>
+<td><input type="button" value="Kira" name="kira" onClick="proseskira()" data-rel="external"></td>
 <td><input type="reset" value="Reset"></td>
 </tr>
 </table>

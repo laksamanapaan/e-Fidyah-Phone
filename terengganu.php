@@ -23,8 +23,7 @@ function proseskira()
 <div data-role="page">
 	<div data-role="header">
 		<h1>Kira Fidyah</h1>
-		<a href="index.html" data-role="button" data-icon="home">Halaman Utama</a>
-  </div>
+		<a href="index.html" data-role="button" data-icon="home" data-rel="external">Halaman Utama</a></div>
 <table align="center" cellpadding="5" bgcolor="#99FF99" cellspacing="5"> 
 <tr align="left">
 <td><font size="+1" color="#000000" face="Comic Sans MS, cursive">Zakat fitrah semasa
@@ -74,7 +73,7 @@ function proseskira()
 </tr></table>
 <table align="center" cellpadding="5" cellspacing="5"> 
 <tr align="left">
-<td><input type="button" value="Kira" name="kira" onClick="proseskira()"></td>
+<td><input type="button" value="Kira" name="kira" onClick="proseskira()" data-rel="external"></td>
 </tr>
 </table>
 <table align="center" bordercolor="#999933" cellpadding="5" cellspacing="5"> 

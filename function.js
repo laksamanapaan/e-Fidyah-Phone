@@ -1,6 +1,6 @@
 
 var day=2;
-
+var hari=2
 
 function kiraHari(){
 	
@@ -12,7 +12,7 @@ function kiraHari(){
 	else {
         
     }
-
+var hari=day;
 	
 
 	
@@ -33,7 +33,10 @@ $day=$day+1;
 	document.getElementById("bilangan").innerHTML=$day;*/
 }
 
-
+function cuba()
+{
+	document.write(hari)
+}
 function hari($masihi,$hijri){
 	document.getElementById("tarikh").innerHTML=$masihi+" " +"Jun 2016 "+ "  /  "+$hijri+" " + "Ramadan 1437h";}
 
